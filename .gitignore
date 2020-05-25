@@ -1,4 +1,7 @@
-*.sif
+.bash_history
+\#*
+\.#*
 *~
-*.png
-hold_back
+data_derived/simulation_results.rds
+data_derived/simulation_results.csv.zip
+private/
